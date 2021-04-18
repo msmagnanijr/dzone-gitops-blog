@@ -1,0 +1,9 @@
+#MultiNamespace InstallModeType not supported, cannot configure to watch 2 namespaces
+apiVersion: operators.coreos.com/v1alpha2
+kind: OperatorGroup
+metadata:
+  name: single-namespace-dzone-operator-group
+  namespace: dzone
+spec:
+  targetNamespaces:
+  - dzone
