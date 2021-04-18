@@ -3,12 +3,6 @@
 https://dzone.com/articles/keep-your-openshift-cluster-operators-highly-trace
 
 
-![ArgoCD](images/dzone-01.png)
-
-![ArgoCD](images/dzone-02.png)
-
-![ArgoCD](images/dzone-03.png)
-
 ![ArgoCD](images/dzone-04.png)
 
 ![ArgoCD](images/dzone-05.png)
